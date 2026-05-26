@@ -4,6 +4,7 @@ public class App {
 
         cafe.fazerCafe();
         cafe.recarregar(10);
+        cafe.fazerCafe();
 
     }
 }
